@@ -45,7 +45,7 @@ chart_data = pd.DataFrame(
 
 st.line_chart(chart_data)
 
-
+"Python"
 
 
 # option = st.sidebar.selectbox(
